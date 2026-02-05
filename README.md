@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=7C7CFF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Savitha+J;Full+Stack+MERN+Developer;Frontend+Enthusiast+from+Chennai" />
+</h1>
 
-<!--
-**savithaprofile/savithaprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7C7CFF" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 **Full Stack Developer (MERN)**
+- 📍 Chennai, India  
+- 🎯 Building scalable and user-friendly web applications  
+- 🌱 Currently learning **PostgreSQL & System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,vercel" />
+</p>
+
+---
+
+## 💼 Experience  
+- **Team Lead – Urbancode** *(Jan 2025 – Present)*  
+- **Full Stack Developer – Urbancode** *(July 2024 – Dec 2024)*  
+- **Frontend Developer – Riot Infotech, Chennai** *(6 Months)*  
+
+---
+
+## 🔥 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Course Curriculum Planner (MERN)
+- Admin, Instructor & Student modules  
+- Course & batch management  
+- Role-based access control  
+- Student progress tracking  
+
+### 🔹 BB Meet Dashboard  
+- QR-based attendance  
+- Real-time member tracking  
+- Analytics dashboard  
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories!**
