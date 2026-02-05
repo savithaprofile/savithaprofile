@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7C7CFF" />
+  <img src="https://komarev.com/ghpvc/?username=savithaprofile&color=7C7CFF" />
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@
 ## 🔥 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savithaprofile&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savithaprofile&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savithaprofile&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -69,10 +69,10 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/savitha-j">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:savitha.saviy@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
