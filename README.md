@@ -59,7 +59,7 @@
 - Role-based access control  
 - Student progress tracking  
 
-### 🔹 BB Meet Dashboard  
+### 🔹 Attendance System (HR management)
 - QR-based attendance  
 - Real-time member tracking  
 - Analytics dashboard  
